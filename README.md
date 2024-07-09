@@ -8,4 +8,4 @@
 - 🖥️ My application published:
   - [WorkMemo](https://workmemo.arduc.ch)
 - 🗜️ My favorites technologies I use:
-  - [Vue](https://vuejs.org) | [Vite](https://vitejs.org) | [Nuxt](https://nuxt.com)
+  - [Vue](https://vuejs.org) | [Vite](https://vitejs.dev) | [Nuxt](https://nuxt.com)
