@@ -18,7 +18,7 @@ Here are some of my live websites. Feel free to explore them!
 Here are some applications I've developed and published to make users' lives easier.
 
 - 🪖 [**Swiss Army Presence Controller**](https://pc.army.arduc.ch)  
-  Generates guard plans for the Swiss Army.
+  Manage easily the deployment of your military personnel (cr)
 
 - 🪖 [**Swiss Army Guard Plan**](https://gp.army.arduc.ch)  
   Generates guard plans for the Swiss Army.
