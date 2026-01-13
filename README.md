@@ -33,9 +33,3 @@ I work with a variety of technologies to create innovative solutions. Here's an 
 <p align="left">
   <img height="100px" src="./pictures/skills_icon.png" />
 </p>
-
----
-
-### 💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtyomInc&show_icons=true&hide_title=true)
