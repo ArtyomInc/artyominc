@@ -7,18 +7,22 @@ Welcome to my GitHub profile! I'm passionate about creating **websites** and **a
 Here are some of my live websites. Feel free to explore them!
 
 - 🏠 [**arduc.ch**](https://arduc.ch)
-- 🪖 [**Swiss Army Guard Plan**](https://swiss-army-guard-plan.arduc.ch)
+- 🪖 [**Swiss Army Presence Controller**](https://pc.army.arduc.ch)
+- 🪖 [**Swiss Army Guard Plan**](https://gp.army.arduc.ch)
 - 🗒️ [**WorkMemo**](https://workmemo.arduc.ch)
-- ⌨️ [**Term**](https://term.arduc.ch)
+- ⌨️ [**Terminal**](https://term.arduc.ch)
 - ⏱️ [**Timer**](https://timer.arduc.ch)
 
 ## 🖥️ Published Applications
 
 Here are some applications I've developed and published to make users' lives easier.
 
-- 🪖 [**Swiss Army Guard Plan Generator**](https://swiss-army-guard-plan.arduc.ch)  
+- 🪖 [**Swiss Army Presence Controller**](https://pc.army.arduc.ch)  
   Generates guard plans for the Swiss Army.
 
+- 🪖 [**Swiss Army Guard Plan**](https://gp.army.arduc.ch)  
+  Generates guard plans for the Swiss Army.
+  
 - 🗒️ [**WorkMemo**](https://workmemo.arduc.ch)  
   Organizes your thoughts and tasks with this simple note-taking and to-do list application.
 
