@@ -2,7 +2,7 @@
 
 Systems & Software Technician.
 
-Industrial automation expert (since 2017) and developer (since 2023). I build reliable, pragmatic solutions across PLC/robotics and modern web stacks.
+Industrial automation engineer (since 2017) and developer (since 2023). I build reliable, pragmatic solutions across PLC/robotics and modern web stacks.
 
 🏠 [Website](https://arduc.ch) · 🧪 [Portfolio](https://arduc.ch/projects) · 💼 [LinkedIn](https://linkedin.com/in/artiom-duc)
 
@@ -12,6 +12,11 @@ Industrial automation expert (since 2017) and developer (since 2023). I build re
 - 🌐 Web apps: Vue 3 / Nuxt 4 / TypeScript / Tailwind CSS
 - ⚙️ Backend: Node.js, Python
 - 🧱 Infrastructure: Docker, Debian, NGINX/Caddy, pm2
+
+## 💼 Client web projects
+
+- 🪚 Menuiserie Roux: https://menuiserie-roux.ch
+- 🧘 EM-MOTION: https://em-motion.ch
 
 ## 🧩 Open-source projects
 
