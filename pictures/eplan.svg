@@ -1,0 +1,17 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 5" clip-path="url(#clip0_0_14)">
+<rect id="Rectangle" x="153.99" y="26.8219" width="75" height="294" rx="37.5" transform="rotate(20 153.99 26.8219)" fill="#E50043"/>
+<rect id="Rectangle 2" x="271" y="27" width="75" height="448" rx="37.5" transform="rotate(20 271 27)" fill="#E50043"/>
+<rect id="Rectangle 3" x="389" y="26" width="75" height="448" rx="37.5" transform="rotate(20 389 26)" fill="#E50043"/>
+<g id="Frame 5_2">
+<rect id="Rectangle_2" x="153.99" y="26.8219" width="75" height="294" rx="37.5" transform="rotate(20 153.99 26.8219)" fill="#E50043"/>
+<rect id="Rectangle 2_2" x="271" y="27" width="75" height="448" rx="37.5" transform="rotate(20 271 27)" fill="#E50043"/>
+<rect id="Rectangle 3_2" x="389" y="26" width="75" height="448" rx="37.5" transform="rotate(20 389 26)" fill="#E50043"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_14">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+</defs>
+</svg>
